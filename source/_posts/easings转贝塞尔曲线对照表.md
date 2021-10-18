@@ -3,7 +3,7 @@ title: easings转贝塞尔曲线对照表
 date: 2021-10-16 13:44:21
 tags:
 ---
-![easing1024x792.png](http://47.115.4.57:8090/upload/2021/05/easing-1024x792-ba8358a4a9c34c02959dadd34121fd68.png)
+[![5GsUxA.png](https://z3.ax1x.com/2021/10/16/5GsUxA.png)](https://imgtu.com/i/5GsUxA)
 
 个人最常用的easing22和easing23
 easing22：
